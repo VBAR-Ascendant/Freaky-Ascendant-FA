@@ -113,9 +113,10 @@ WeaponInfo1
 	ChargeSound 			"sound/weapons/leia_pistol/altcharge.mp3"
 	customAmmo          840
 	clipsize            24
-	damageMod 1.2
+	damageMod 1.15
 	FPmult    1.25
 	rateMod 1.25
+	velocityMod 1.25
 	hasAnimOverrides 1
 	animReadyRun TORSO_WEAPONIDLE2
 	animReady TORSO_WEAPONIDLE2

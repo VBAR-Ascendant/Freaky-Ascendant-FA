@@ -88,7 +88,7 @@ mbPoints	17
 	c_att_names_7	"Armor (80)"
 	c_att_ranks_7	4
 
-	c_att_skill_8	MB_ATT_BACTA
+	c_att_skill_8	MB_ATT_BACTA_BIG
 	c_att_names_8	"Medpac"
 	c_att_ranks_8	4
 }
